@@ -35,7 +35,7 @@ Despite heavily biased datasets in the case of 9 and 12 classes, the SVM classif
 ##  Libraries used
 </div>
 
-- Keras  [1] -- a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. We use Keras to develop sequential CNN and LSTM models.
+- Keras  [1] -- a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
 - Scikit-learn [2] is a free software machine learning library for Python.
 
 ##  REFERENCES
